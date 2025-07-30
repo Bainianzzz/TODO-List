@@ -1,7 +1,5 @@
 # 基于 next.js 的 TODO List
 
-[网页跳转]()
-
 - 基于node.js，app路由
 - css框架使用 tailwind，ui 框架使用 shadcn/ui
 - 使用ts
