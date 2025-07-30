@@ -7,12 +7,7 @@ import { addTask, getAllTask, updateTask } from '@/actions/cookies'
 import { Task } from '@/lib/types';
 import {
   Card,
-  CardAction,
   CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
 } from "@/components/ui/card"
 import { deleteTask } from "@/actions/cookies"
 import {
@@ -20,7 +15,6 @@ import {
   AlertDialogAction,
   AlertDialogCancel,
   AlertDialogContent,
-  AlertDialogDescription,
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
